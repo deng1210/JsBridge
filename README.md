@@ -1,3 +1,6 @@
+弃用iframe.src触发shouldOverrideUrlLoading的方式调用native，修改实现方式为原生的addJavascriptInterface，适用api 4.2以上
+
+
 #JsBridge
 
 -----
