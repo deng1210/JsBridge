@@ -1,3 +1,6 @@
+修改实现方式为原生的addJavascriptInterface，适用api 4.2以上
+
+
 #JsBridge
 
 -----
